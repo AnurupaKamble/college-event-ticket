@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-} 
+ }
 .event-card{
     width: 350px;
     height: 450px;
