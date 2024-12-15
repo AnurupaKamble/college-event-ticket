@@ -3,7 +3,6 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 } 
-
 .event-card{
     width: 350px;
     height: 450px;
@@ -20,21 +19,18 @@
     box-shadow: 0 0 10px rgba(199, 193, 193, 0.5);
     border-radius: 10px 10px 0 0;    
 }
-
 .head{
     color: rgb(14, 114, 114);
     background-color: rgb(196, 186, 153);
     margin: 10px ;
     font-size: 20px;
  }
-
  .head1{
     color: rgb(224, 41, 28);
     margin: 10px ;
     font-size: 20px;
     text-align: center;
  }
-
  .event{
     color: rgb(187, 56, 143);
     margin: 10px ;
@@ -42,21 +38,24 @@
     justify-content: center;
     text-align: center;
  }
-
  .head2{
     color: rgb(127, 16, 179);
     margin: 10px ;
     font-size: 15px;
  }
-
  .head3{
     color: rgb(228, 10, 111);
     margin: 10px ;
     font-size: 15px;
  }
-
  .head4{
     color: rgb(19, 17, 26);
     margin: 10px ;
     font-size: 15px;
+ }
+ .head5{
+    color: rgb(228, 16, 16);
+    margin: 10px ;
+    font-size: 15px;
+    text-align: center;
  }
